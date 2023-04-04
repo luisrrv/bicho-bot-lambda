@@ -1,2 +1,4 @@
-tweepy==3.9.0
+tweepy==4.13.0
 python-dotenv==0.14.0
+google_images_search
+requests
